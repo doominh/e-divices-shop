@@ -1,0 +1,51 @@
+<h2 class="mb-4 text-center">Lịch sử mua hàng</h2>
+<div class="card">
+  <div class="card-body">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Đơn hàng</th>
+          <th>Họ tên</th>
+          <th>Địa chỉ</th>
+          <th>Điện thoại</th>
+          <th>Email</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let order of orders" class="clickable" (click)="showOrderDetails(order)">
+          <td>{{ order.id }}</td>
+          <td>{{ order.hoten }}</td>
+          <td>{{ order.diachi }}</td>
+          <td>{{ order.dienthoai }}</td>
+          <td>{{ order.email }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div *ngIf="selectedOrder" class="card mt-4">
+  <div class="card-body">
+    <h4>Chi tiết đơn hàng #{{ selectedOrder.id }}</h4>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Tên sản phẩm</th>
+          <th>Giá sản phẩm</th>
+          <th>Số lượng</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let detail of getOrderDetails(selectedOrder.id)">
+          <td>{{ detail.tensp }}</td>
+          <td>{{ detail.giasp }}</td>
+          <td>{{ detail.soluong }}</td>
+        </tr>
+      </tbody>
+      <!-- <tr> 
+        <th colspan="2"> Tổng số lượng: {{ tongSoLuong() }} </th>
+        <th colspan="2"> Tổng tiền: {{ tongTien() |number:'1.0-0':'fr'}} VNĐ  </th>
+       </tr> -->
+    </table>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+<h3>Register</h3>
+<form #myForm="ngForm" (ngSubmit)="register()">   
+    <div class="mb-3">
+      <label for="email" class="form-label" >Email:</label>
+      <input type="email" [(ngModel)]="email" id="email" class="form-control" name="email" ngModel required email #emailInput="ngModel">
+      <div style="color:red" *ngIf="emailInput.invalid && (emailInput.dirty || emailInput.touched)">
+        <div *ngIf="emailInput.errors?.['required']">Vui lòng nhập email</div>
+        <div *ngIf="emailInput.errors?.['email']">Vui lòng nhập đúng định dạng email</div>
+      </div>
+      <div class="mb-3">
+        <label for="name" class="form-label">Password:</label>
+        <input type="password" [(ngModel)]="password" id="password" class="form-control" name="password" ngModel required #passwordInput="ngModel">    
+        <div style="color:red" *ngIf="passwordInput.invalid && (passwordInput.dirty || passwordInput.touched)">
+          Vui lòng nhập password
+        </div>
+      </div>  
+    </div>  
+    <button class="btn btn-primary" type="submit" [disabled]="myForm.invalid">Register</button>
+</form> 

@@ -1,0 +1,256 @@
+{
+  "sanpham": [
+    {
+      "id": 1,
+      "tensp": "Xiaomi Redmi Note 11",
+      "giasp": "5490000",
+      "solanxem": 45,
+      "hot": 1,
+      "mota": "Xiaomi Redmi Note 11 được xem như chiếc smartphone có giá tầm trung ấn tượng, với 1 cấu hình mạnh, cụm camera xịn sò, pin khỏe, sạc nhanh mà giá lại rất phải chăng.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/245261/Xiaomi-redmi-note-11-blue-600x600.jpg",
+      "ngay": "2024-04-01",
+      "idLoai": "1"
+    },
+    {
+      "id": 2,
+      "tensp": "Phone 13 Pro Max 128GB",
+      "giasp": "33490000",
+      "solanxem": 13,
+      "hot": 0,
+      "mota": "Máy thiết kế không mấy đột phá khi so với người tiền nhiệm, màn hình siêu đẹp, tần số quét nâng cấp lên 120 Hz mượt mà, cảm biến camera có kích thước lớn hơn",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+      "ngay": "2024-04-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 3,
+      "tensp": "Vivo Y33s",
+      "giasp": "6990000",
+      "solanxem": 133,
+      "hot": 0,
+      "mota": "Vivo Y33s thiết kế trẻ trung với màu đen tráng gương và xanh mộng mơ. Phiên bản màu đen được phủ lớp tráng gương sáng bóng, có thể trở thành chiếc gương tiện lợi",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/249102/Vivo-y33s-yellow-thumb-600x600.jpg",
+      "ngay": "2024-04-03",
+      "idLoai": "1"
+    },
+    {
+      "id": 4,
+      "tensp": "OPPO Reno7 Z 5G",
+      "giasp": "10490000",
+      "solanxem": 321,
+      "hot": 1,
+      "mota": "Sản phẩm có thiết kế OPPO Glow độc quyền, camera mang hiệu ứng như máy DSLR chuyên nghiệp cùng viền sáng kép, có cấu hình mạnh mẽ và đạt chứng nhận xếp hạng A về độ mượt.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/271717/oppo-reno7-z-5g-thumb-1-1-600x600.jpg",
+      "ngay": "2024-04-04",
+      "idLoai": "1"
+    },
+    {
+      "id": 5,
+      "tensp": "Samsung Galaxy A03 3GB",
+      "giasp": "2990000",
+      "solanxem": 5,
+      "hot": 1,
+      "mota": "Là điện thoại Galaxy A đầu tiên của nhà Samsung trong năm 2022 tại VN. Sản phẩm có giá dễ tiếp cận, camera chính đến 48 MP, pin 5000 mAh thoải mái sử dụng cả ngày.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/251856/samsung-galaxy-a03-xanh-thumb-600x600.jpg",
+      "ngay": "2024-04-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 6,
+      "tensp": "Samsung Galaxy A52s 5G",
+      "giasp": "10990000",
+      "solanxem": 34,
+      "hot": 1,
+      "mota": "Điện thoại Galaxy A52s 5G là phiên bản nâng cấp của Galaxy A52 5G, với ngoại hình không đổi nhưng được nâng cấp đáng kể về thông số cấu hình bên trong.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/247507/samsung-galaxy-a52s-5g-mint-600x600.jpg",
+      "ngay": "2024-04-07",
+      "idLoai": "1"
+    },
+    {
+      "id": 7,
+      "tensp": "Laptop Asus Vivobook",
+      "giasp": "12990000",
+      "solanxem": 77,
+      "hot": 1,
+      "mota": "Laptop Asus Vivobook Go 15 E1504FA R5 7520U (NJ776W) mang phong cách thiết kế sang trọng, hiệu năng mạnh mẽ cùng tính đa năng sử dụng, chắc chắn sẽ giúp bạn đáp ứng mọi tác vụ công việc và học tập hàng ngày một cách hiệu quả và chuyên nghiệp nhất.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/44/311178/asus-vivobook-go-15-e1504fa-r5-nj776w-thumb-600x600.jpg",
+      "ngay": "2024-04-07",
+      "idLoai": "2"
+    },
+    {
+      "id": 8,
+      "tensp": "MacBook Pro 14 M1 Pro",
+      "giasp": "42490000",
+      "solanxem": 231,
+      "hot": 0,
+      "mota": "Apple đã giới thiệu MacBook Pro 14 inch vào tháng 10/2023, mang một diện mạo mới cùng bộ vi xử lý do hãng tự phát triển, không chỉ cho hiệu năng vượt trội mà còn sở hữu màn hình với khả năng hiển thị thực sự ấn tượng, khiến mình mê mẩn khi cầm trên tay trải nghiệm. Sức mạnh hiệu năng đỉnh cao hơn bao giờ hết. MacBook Pro 14 inch mang trong mình bộ vi xử lý M1 Pro được sản xuất bằng tiến trình 5 nm hiện đại, tích hợp 8 lõi CPU với 6 lõi hiệu suất cao và 2 lõi tiết kiệm điện năng, hứa hẹn khả năng xử lý nhanh hơn tới 70% so với CPU của M1, đồng thời giảm điện năng tiêu thụ đáng kể để kéo dài thời lượng pin.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/44/253581/Slider/vi-vn-macbook-pro-14-m1-pro-2021-8-core-cpu-thumbvideo.jpg",
+      "ngay": "2024-04-02",
+      "idLoai": "2"
+    },
+    {
+      "id": 9,
+      "tensp": "Laptop HP 15s i3",
+      "giasp": "9990000",
+      "solanxem": 672,
+      "hot": 1,
+      "mota": "Laptop HP 15s fq2662TU i3 (6K795PA) sẽ là sự lựa chọn phù hợp cho học sinh, sinh viên muốn tìm kiếm một chiếc laptop học tập - văn phòng sở hữu cấu hình ổn định, đáp ứng tốt mọi nhu cầu cơ bản cùng một mức giá lý tưởng, dễ dàng tiếp cận. Laptop HP cơ bản được bao bọc bởi lớp vỏ nhựa màu bạc, mang đến vẻ đẹp tối giản nhưng cũng không kém phần thanh lịch, tao nhã. Khối lượng 1.7 kg hỗ trợ bạn bỏ vào balo dễ dàng và mang đến khắp mọi nơi để học tập, làm việc. Các cổng kết nối như USB Type-C, USB A, HDMI, khe đọc thẻ nhớ SD và Jack tai nghe 3.5 mm được trang bị xung quanh laptop cho phép bạn kết nối với các thiết bị ngoại vi khác như loa, chuột, máy chiếu,... nhanh chóng hơn mà không cần đến dây cáp rườm rà.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/44/284190/Slider/vi-vn-hp-15s-fq2662tu-i3-6k795pa-1.jpg",
+      "ngay": "2024-05-01",
+      "idLoai": "2"
+    },
+    {
+      "id": 10,
+      "tensp": "Lenovo Ideapad 15IAU7",
+      "giasp": "12690000",
+      "solanxem": 14,
+      "hot": 0,
+      "mota": "Laptop Lenovo Ideapad 3 15IAU7 i3 (82RK005LVN) sẽ là một người bạn đồng hành đắc lực cho các bạn học sinh, sinh viên hay dân văn phòng với ngoại hình thanh lịch, hiện đại cùng hiệu năng mạnh mẽ đến từ con chip Intel Gen 12 tân tiến. Laptop Lenovo Ideapad giải quyết tốt mọi tác vụ của một chiếc laptop học tập - văn phòng từ cơ bản đến nâng cao nhờ sự kết hợp của bộ vi xử lý Intel Core i3 1215U cùng card đồ họa Intel UHD Graphics. Vừa chạy file Excel nặng vừa xem phim giải trí đa nhiệm vẫn rất mượt mà nhờ bộ nhớ RAM 8 GB. Không gian lưu trữ rộng rãi nhờ ổ cứng SSD 256 GB có thể lắp thanh khác tối đa 1 TB. Sắc xám đơn giản nhưng không kém phần hiện đại, tao nhã giúp chủ nhân sở hữu nó nổi bật ở khắp mọi nơi. Laptop có bàn phím số giúp bạn dễ dàng nhập liệu hơn. ",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/44/287769/Slider/vi-vn-lenovo-ideapad-3-15iau7-i3-82rk005lvn-thumbvideo.jpg",
+      "ngay": "2024-05-01",
+      "idLoai": "2"
+    },
+    {
+      "id": 11,
+      "tensp": "Asus Vivobook 14X i3",
+      "giasp": "12590000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Nếu bạn là học sinh, sinh viên hay nhân viên văn phòng thì không nên bỏ qua chiếc laptop Asus Vivobook 14X  A1403ZA i3 (LY143W) - một phiên bản laptop học tập - văn phòng của nhà Asus đáp ứng tốt các tác vụ thiết yếu hằng ngày nhờ sở hữu con chip Intel Gen 12 mạnh mẽ. Sự xuất hiện của bộ vi xử lý Intel Core i3 1220P đã giúp chiếc laptop Asus giải quyết hoàn hảo mọi tác vụ học tập, làm việc hằng ngày, kèm theo đó là card Intel UHD Graphics thỏa mãn đam mê sáng tạo của người dùng với các công việc chỉnh ảnh, thiết kế cơ bản. RAM 8 GB mang đến khả năng đa nhiệm mượt mà cùng lúc nhiều cửa sổ trình duyệt khác nhau, đồng thời tăng tốc độ đọc ghi nhanh hơn đáng kể so với thế hệ tiền nhiệm nhờ ổ cứng SSD 512 GB.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/44/285770/Slider/vi-vn-asus-vivobook-14x-a1403za-i3-ly143w-1.jpg",
+      "ngay": "2024-05-02",
+      "idLoai": "2"
+    },
+    {
+      "id": 12,
+      "tensp": "MSI Modern 14 i3",
+      "giasp": "12190000",
+      "solanxem": 189,
+      "hot": 1,
+      "mota": "Laptop MSI Modern 14 B11MOU i3 (1027VN) là phiên bản laptop phổ thông được nhà MSI cho ra mắt với sứ mệnh phục vụ tốt mọi tác vụ thiết yếu cơ bản hằng ngày của người dùng khi sở hữu cấu hình ổn định đến từ con chip Intel Gen 11 cùng ngoại hình trang nhã, thời thượng và mang tính di động cao. Thu hút mọi ánh nhìn với lối thiết kế sang trọng. Lớp vỏ kim loại bền chắc có gam màu xám chủ đạo đã toát lên vẻ sang trọng và thời thượng cho laptop MSI Modern, giúp cho chủ nhân sở hữu nó nổi bật hơn hẳn dù làm việc trong văn phòng hay những quán cafe đông người. Độ linh hoạt được hoàn thiện đáng kể khi máy sở hữu khối lượng chỉ vỏn vẹn 1.3 kg, cho phép bạn di chuyển đến bất cứ mọi không gian bạn muốn mà không lo cồng kềnh, nặng nhọc.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/44/266898/Slider/vi-vn-msi-modern-14-b11mou-i3-1027vn-1.jpg",
+      "ngay": "2024-05-02",
+      "idLoai": "2"
+    },
+    {
+      "id": 13,
+      "tensp": "Acer Aspire 7 Game",
+      "giasp": "14990000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Laptop Aspire 7 Gaming A715 42G R4XX R5 (NH.QAYSV.008) sở hữu hiệu năng khoẻ cùng thiết kế mạnh mẽ, là bạn đồng hành lý tưởng trong mọi cuộc hành trình. Laptop AMD Ryzen 5 5500U cùng card rời NVIDIA GeForce GTX 1650 4 GB, mang đến khả năng thiết kế 2D, render video ngắn,... ổn định trên các phần mềm Adobe hay giải trí với các tựa game kịch tính trên thị trường hiện nay một cách mượt mà. Chiếc laptop Acer Aspire còn sở hữu RAM 8 GB và SSD 256 GB đáp ứng tốt nhu cầu đa nhiệm, hỗ trợ bạn thao tác mọi việc nhanh chóng và hiệu quả hơn. Phiên bản laptop này với khối lượng 2.1 kg và dày 22.9 mm, được chế tác từ chất liệu nhựa bền bỉ, dễ dàng để bạn mang đi khắp mọi nơi.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/44/268775/Slider/vi-vn-acer-aspire-7-gaming-a715-42g-r4xx-r5-nhqaysv008-1.jpg",
+      "ngay": "2024-05-03",
+      "idLoai": "2"
+    },
+    {
+      "id": 14,
+      "tensp": "BeFit WatchFit",
+      "giasp": "14990000",
+      "solanxem": 100,
+      "hot": 1,
+      "mota": "BeFit WatchFit được trang bị các chức năng sức khỏe và thể thao cơ bản, đáp ứng được nhu cầu sử dụng của người dùng phổ thông. Tuy thuộc phân khúc giá rẻ nhưng chiếc đồng hồ thông minh này vẫn được trang bị tính năng nghe gọi, đảm bảo sự thuận tiện trong quá trình sử dụng.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/7077/306530/Slider/vi-vn-befit-watch-fit-fix-1.jpg",
+      "ngay": "2024-01-03",
+      "idLoai": "3"
+    },
+    {
+      "id": 15,
+      "tensp": "Samsung Galaxy Watch6 40mm",
+      "giasp": "5490000",
+      "solanxem": 110,
+      "hot": 1,
+      "mota": "Galaxy Unpacked là một trong những sự kiện công nghệ đáng chú ý nhất nửa cuối năm của nhà Samsung. Bên cạnh những mẫu điện thoại gập đình đám, Samsung Galaxy Watch6 40mm cũng là một sản phẩm được mong chờ nhất của các tín đồ công nghệ nói chung và fan nhà Samsung nói riêng.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/7077/310849/Slider/vi-vn-samsung-galaxy-watch6-40mm-sld-fix-1.jpg",
+      "ngay": "2024-01-04",
+      "idLoai": "3"
+    },
+    {
+      "id": 16,
+      "tensp": "Mi Band 8",
+      "giasp": "5490000",
+      "solanxem": 111,
+      "hot": 1,
+      "mota": "Thương hiệu “smartband quốc dân” vừa cho ra mắt thế hệ sản phẩm tiếp theo của mình mang tên Mi Band 8, với nhiều tính năng theo dõi sức khỏe, hỗ trợ luyện tập cùng vô vàn tiện ích hằng ngày, đáp ứng tốt mọi nhu cầu sử dụng cơ bản của người dùng.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/7077/315755/Slider/mi-band-8-thumbnail-2-1020x570.jpg",
+      "ngay": "2024-01-05",
+      "idLoai": "3"
+    },
+    {
+      "id": 17,
+      "tensp": "Chuột Không dây Rapoo B2",
+      "giasp": "150000",
+      "solanxem": 200,
+      "hot": 1,
+      "mota": "Chuột không dây Rapoo B2 sở hữu kiểu dáng tối giản, thiết kế gọn chắc, màu sắc thời thượng, độ nhạy cao, mang đến cho người dùng những trải nghiệm tuyệt vời nhất.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/86/308678/chuot-khong-day-rapoo-b2-1.jpg",
+      "ngay": "2024-01-06",
+      "idLoai": "4"
+    },
+    {
+      "id": 18,
+      "tensp": "Chuột Không dây DareU LM106G",
+      "giasp": "100000",
+      "solanxem": 400,
+      "hot": 1,
+      "mota": "Chuột Không dây DareU LM106G gọn nhẹ, dễ sử dụng, kết nối nhanh chóng, tương thích nhiều thiết bị.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/86/293996/chuot-khong-day-dareu-lm106g-20.jpg",
+      "ngay": "2024-01-07",
+      "idLoai": "4"
+    },
+    {
+      "id": 19,
+      "tensp": "Chuột Bluetooth Microsoft Arc ",
+      "giasp": "1700000",
+      "solanxem": 300,
+      "hot": 1,
+      "mota": "Thiết kế mỏng đẹp, độc đáo, duỗi thẳng để mang đi",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/86/229575/chuot-bluetooth-microsoft-arc-xanh-xam-1-org.jpg",
+      "ngay": "2024-01-08",
+      "idLoai": "4"
+    },
+    {
+      "id": 20,
+      "tensp": "Bàn Phím Không Dây DareU EK807G",
+      "giasp": "535000",
+      "solanxem": 310,
+      "hot": 1,
+      "mota": "Bàn Phím Không Dây DareU EK807G có khối lượng nhẹ với kích thước gọn gàng, thiết kế không dây cho phép dùng linh hoạt, để bạn tùy chọn vị trí sử dụng phù hợp nhất cho riêng mình.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/4547/273015/khong-day-dareu-ek807g-2-1.jpg",
+      "ngay": "2024-01-09",
+      "idLoai": "5"
+    },
+    {
+      "id": 21,
+      "tensp": "Bàn Phím Cơ Có Dây Gaming Rapoo V500alloy",
+      "giasp": "495000",
+      "solanxem": 312,
+      "hot": 1,
+      "mota": "Bàn phím gaming kiểu Tenkeyless với 87 phím cơ bản độ nhạy cao, bền bỉ",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/4547/246137/co-co-day-gaming-rapoo-v500alloy-den-10.jpg",
+      "ngay": "2024-01-10",
+      "idLoai": "5"
+    },
+    {
+      "id": 22,
+      "tensp": "Bàn Phím Cơ Bluetooth Dareu EK75 Pro",
+      "giasp": "1150000",
+      "solanxem": 315,
+      "hot": 1,
+      "mota": "Bàn Phím Cơ Bluetooth Dareu EK75 Pro sở hữu đầy đủ đặc điểm cần có của một mẫu bàn phím cơ cao cấp, đèn LED RGB đa sắc màu giúp không gian làm việc/giải trí nổi bật trong màn đêm, trang bị switch độc quyền cho hành trình phím sâu, không chiếm quá nhiều diện tích trên bàn làm việc hay balo.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/4547/314635/ban-phim-co-bluetooth-dareu-ek75-pro-1.jpg",
+      "ngay": "2024-01-11",
+      "idLoai": "5"
+    }
+  ],
+  "loaisp": [
+    { "id": 1, "tenLoai": "Điện thoại di động", "soSP": 190 },
+    { "id": 2, "tenLoai": "Laptop", "soSP": 178 },
+    { "id": 3, "tenLoai": "Đồng hồ đeo tay", "soSP": 143 },
+    { "id": 4, "tenLoai": "Chuột máy tính", "soSP": 781 },
+    { "id": 5, "tenLoai": "Bàn phím", "soSP": 351 }
+  ],
+  "donhang":[],
+  "donhangchitiet":[],
+  "profile": { "name": "typicode" }
+}

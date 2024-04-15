@@ -1,0 +1,61 @@
+<div class="row">
+    <div class="col-9">
+        <h3>Danh sách sản phẩm</h3>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Name</th>
+          <th>Image</th>
+          <th>Price</th>
+          <th></th>
+          <th></th>
+        </tr>
+      </thead>
+        <p *ngIf='isFetching'>Loading....</p>
+      <tbody  *ngIf="!isFetching">
+        <tr *ngFor="let product of products">
+          <td>{{ product.id }}</td>
+          <td>{{ product.tensp }}</td>
+          <td><img src="{{ product.hinh }}" alt="" width="50px"></td>
+          <td>{{ product.giasp }}</td>
+          <td><button class="btn btn-primary" (click)="editProduct(product.id)">Edit</button></td>
+          <td><button class="btn btn-danger" (click)="deleteProduct(product.id)">Delete</button></td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <div class="col-3">
+        <h3>Thêm - sửa sản phẩm</h3>
+        <form #productForm="ngForm" >
+            <div class="form-group">
+                <input class="form-control mt-2" type="text" placeholder="Nhập tên"[(ngModel)]="product.tensp" name="tensp"  #name="ngModel" required>
+                <div style="color:red" *ngIf="name.invalid && name.touched">
+                    Vui lòng nhập tên sản phẩm!
+                </div>
+                <input class="form-control mt-2" type="number" placeholder="Nhập giá"[(ngModel)]="product.giasp" name="giasp"  #price="ngModel" required>
+                <div style="color:red" *ngIf="price.invalid && price.touched">
+                    Vui lòng nhập giá sản phẩm!
+                </div>
+                <textarea class="form-control mt-2" [(ngModel)]="product.mota" name="mota" cols="30" rows="5" placeholder="Nội dung bài viết" ></textarea>
+                <input class="form-control mt-2" type="text" placeholder="Nhập URL hình ảnh"[(ngModel)]="product.hinh" name="hinh"  #image="ngModel" required>
+                <div style="color:red" *ngIf="price.invalid && price.touched">
+                    Vui lòng nhập URL hình ảnh!
+                </div>
+                <input class="form-control mt-2" type="date" id="dateInput" placeholder="Ngày" [(ngModel)]="product.ngay" name="ngay" required>
+                <label for="loaiSelect" class="mt-2">Loại sản phẩm:</label>
+                <select class="form-control" id="loaiSelect" [(ngModel)]="product.idloai" name="idloai" required>
+                  <option value="1">Điện thoại di động</option>
+                  <option value="2">Laptop</option>
+                  <option value="3">Đồng hồ đeo tay</option>
+                  <option value="4">Chuột máy tính</option>
+                  <option value="5">Bàn phím</option>
+                </select>                
+            </div>  
+            <div class="form-group btnX">
+                <button class="btn btn-success center m-2" [disabled]="productForm.invalid || !disableUpdate" (click)="addnew(productForm)">Thêm mới</button>
+                <button class="btn btn-warning center m-2"[disabled]="disableUpdate" (click)="update(product.id, productForm)">Cập nhật</button>
+            </div>
+        </form>
+    </div>
+</div>

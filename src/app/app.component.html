@@ -1,0 +1,77 @@
+<header class="bg-info position-relative">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light position-fixed top-0 start-0 end-0" style="z-index: 1;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#" routerLink="">Shoppe</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#" routerLink=""
+              >Trang chủ</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" routerLink="/sanpham">Sản phẩm</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" routerLink="/lienhe">Liên hệ</a>
+          </li>
+          <app-cac-loai></app-cac-loai>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Admin
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li>
+                <a class="dropdown-item" href="#" routerLink="login">Đăng nhập</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#" routerLink="register">Đăng ký</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#" routerLink="list-product">Quản lý sản phẩm</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#" routerLink="list-category">Quản lý loại</a>
+              </li>
+              <li><hr class="dropdown-divider" /></li>
+              <li><a class="dropdown-item" href="#">Quên mật khẩu</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" routerLink="/lichsudh">Lich sử đơn hàng</a>
+          </li>
+        </ul>
+        <form class="d-flex ">
+          <div style="color: #000" class="d-flex" *ngIf="user!==null">
+            <span class="lh-lg mx-2">{{"Xin chào, "+user.email}}</span> <button (click)="logOut()" class="btn btn-outline-success mx-2">Đăng Xuất</button>
+          </div> 
+          <a href="#" routerLink="/giohang" class="btn btn-outline-success"><i class="fa-solid fa-cart-shopping"></i></a>
+          <!-- <input class="form-control me-2" type="search" placeholder="Từ khóa..." aria-label="Search" />
+          <button class="btn btn-outline-success"  type="submit" style="width: 125px" > Tìm kiếm</button> -->
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+<div class="container mt-5">
+  <main>
+    <!-- <aside class="col-md-3 bg-light p-2">
+      <app-cac-loai></app-cac-loai>
+    </aside> -->
+    <article class="col-md-12 bg-light p-2">
+      <router-outlet></router-outlet>
+    </article>
+  </main>
+</div>
+<footer class="bg-light text-center ">Footer</footer>
